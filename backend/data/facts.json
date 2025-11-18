@@ -1,0 +1,21 @@
+{
+    "full_name": "Akshay Ramesh",
+    "name": "Akshay",
+    "current_role": "Technical Director",
+    "location": "Raleigh, NC",
+    "email": "akshayrnair1984@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/akshayramesh-tech/",
+    "specialties": [
+      "AI Engineering",
+      "Healthcare Interoperability",
+      "Digital Transformation"
+    ],
+    "years_experience": 20,
+    "education": [
+      {
+        "degree": "B.E Engineering",
+        "institution": "Anna University",
+        "year": "2006"
+      }
+    ]
+  }
